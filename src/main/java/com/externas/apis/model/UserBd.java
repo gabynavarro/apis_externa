@@ -19,5 +19,5 @@ public class UserBd {
     protected Long id;
     private String name;
     private String username;
-    private String enail;
+    private String email;
 }
