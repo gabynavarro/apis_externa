@@ -5,7 +5,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import javax.xml.namespace.QName;
 @Getter  @Setter
 @NoArgsConstructor
 @AllArgsConstructor
